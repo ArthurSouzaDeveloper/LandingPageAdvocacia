@@ -1,0 +1,78 @@
+{
+  "_comment": "Conteúdos jurídicos exibidos na página. Para atualizar, edite esta lista (a ordem é a de exibição). 'url' deve ser o link do artigo completo; 'date' (AAAA-MM-DD) é opcional e só aparece se preenchida. Títulos e resumos foram transcritos da listagem do site atual e devem ser conferidos.",
+  "blogUrl": "https://schiavoniadvogados.com.br/blog/",
+  "articles": [
+    {
+      "title": "A construtora deve devolver o valor integral se o atraso ultrapassar 180 dias?",
+      "summary": "Quando um comprador sonha com a entrega do imóvel na planta, o atraso da obra pode virar pesadelo.",
+      "image": "assets/img/artigo-construtora.jpg",
+      "alt": "Capa do artigo sobre atraso na entrega de imóvel na planta",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "STF muda as regras: entenda o novo marco na Execução Trabalhista",
+      "summary": "Imagine um cenário assim: uma empresa é condenada a pagar uma dívida trabalhista. Porém, durante a execução (fase de cobrança)…",
+      "image": "assets/img/artigo-stf.jpg",
+      "alt": "Capa do artigo sobre o novo marco do STF na execução trabalhista",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "TST elimina exigência de 15 dias para estabilidade após acidente de trabalho e redefine critérios do INSS",
+      "summary": "O Tribunal Superior do Trabalho (TST) proferiu decisão histórica que altera os critérios para a concessão da estabilidade provisória ao…",
+      "image": "assets/img/artigo-tst.jpg",
+      "alt": "Capa do artigo sobre decisão do TST acerca da estabilidade após acidente de trabalho",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "Descobri um defeito no produto após o fim da garantia: tenho direito?",
+      "summary": "Comprar um produto novo e perceber que, depois de um tempo, ele apresenta um defeito de fabricação pode ser frustrante.",
+      "image": "assets/img/artigo-defeito.jpg",
+      "alt": "Capa do artigo sobre defeito de fabricação após o fim da garantia",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "Vínculo de emprego entre igrejas e seus membros",
+      "summary": "Situação legal na CLT desde 07 de agosto de 2023, vale a Lei 14.647/2023, que incluiu os §§ 2º e 3º ao…",
+      "image": "assets/img/artigo-igrejas.jpg",
+      "alt": "Capa do artigo sobre vínculo de emprego entre igrejas e seus membros",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "Impenhorabilidade de depósitos bancários até 40 salários mínimos",
+      "summary": "Nos termos do art. 833, X, do CPC, “são impenhoráveis a quantia depositada em caderneta de poupança, até o limite…",
+      "image": "assets/img/artigo-impenhorabilidade.jpg",
+      "alt": "Capa do artigo sobre impenhorabilidade de depósitos bancários",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "Declaração de Espólio em 2025",
+      "summary": "O artigo tem caráter informativo e trata da Declaração do Imposto de Renda de pessoa falecida.",
+      "image": "assets/img/artigo-espolio.jpg",
+      "alt": "Capa do artigo sobre declaração de espólio em 2025",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "A pejotização e as novas perspectivas com o julgamento do Tema 1389 no STF",
+      "summary": "O fenômeno da “pejotização” surgiu como uma nova modalidade de contratação que consiste em o empregador determinar que o trabalhador…",
+      "image": "assets/img/artigo-pejotizacao.jpg",
+      "alt": "Capa do artigo sobre pejotização e o Tema 1389 do STF",
+      "url": "",
+      "date": ""
+    },
+    {
+      "title": "Norma Regulamentadora 01 e assédio no ambiente de trabalho: promovendo conscientização e práticas para um ambiente laboral saudável e seguro",
+      "summary": "Em um cenário onde se busca cada vez mais ambientes laborais saudáveis, seguros e inclusivos, compreender o papel…",
+      "image": "assets/img/artigo-nr1.jpg",
+      "alt": "Capa do artigo sobre a NR-1 e assédio no ambiente de trabalho",
+      "url": "",
+      "date": ""
+    }
+  ]
+}
